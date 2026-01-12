@@ -20,6 +20,12 @@ Validation des Données
 - Gestion des erreurs
 - Chargement dynamique des modèles depuis le registry MLflow
 
+.. image:: api.png
+   :align: center
+   :width: 60%
+   :alt: Pipeline global du système
+
+
 Format des Réponses
 -------------------
 
@@ -28,3 +34,4 @@ Les réponses incluent :
 - Niveau de risque
 - Probabilité associée
 - Recommandations potentielles
+
