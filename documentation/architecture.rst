@@ -13,6 +13,12 @@ des données et des modèles :
 4. Exposition via API REST
 5. Visualisation et monitoring
 
+.. image:: _documentation/pipeline.png
+   :align: center
+   :scale: 60%
+
+
+
 Pipeline Fonctionnel
 --------------------
 
@@ -20,3 +26,4 @@ Pipeline Fonctionnel
 - **ML** : modèles de prédiction entraînés et suivis avec MLflow
 - **API** : FastAPI pour l’inférence en temps réel
 - **Dashboard** : Streamlit pour la visualisation des KPIs
+
