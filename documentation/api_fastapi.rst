@@ -23,15 +23,23 @@ Validation des Données
 .. image:: api.png
    :align: center
    :width: 60%
-   :alt: Pipeline global du système
+   :alt: Requête POST /api/v1/predict
+
 
 
 Format des Réponses
 -------------------
+
+.. image:: final.png
+   :align: center
+   :width: 60%
+   :alt: Réponse de l'API
+
 
 Les réponses incluent :
 
 - Niveau de risque
 - Probabilité associée
 - Recommandations potentielles
+
 
