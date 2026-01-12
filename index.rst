@@ -7,7 +7,7 @@ Bienvenue à  Supplier Risk Prediction
 
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 11
    :caption: Table des matières:
 
    Documentation/Scripts/index.rst
@@ -21,4 +21,5 @@ Bienvenue à  Supplier Risk Prediction
    Documentation/Scripts/dashboard_streamlit.rst
    Documentation/Scripts/deployment_monitoring.rst
    Documentation/Scripts/conclusion.rst
+
 
