@@ -13,10 +13,10 @@ des données et des modèles :
 4. Exposition via API REST
 5. Visualisation et monitoring
 
-.. figure:: supplier_risk_fournisseurs/documentation/pipeline.png
-   :align: center
-   :scale: 60%
-   
+image:: ../documentation/pipeline.png
+    :width: 16
+    :height: 16
+
    Pipeline global du système de détection des risques fournisseurs.
 
 
@@ -29,6 +29,7 @@ Pipeline Fonctionnel
 - **ML** : modèles de prédiction entraînés et suivis avec MLflow
 - **API** : FastAPI pour l’inférence en temps réel
 - **Dashboard** : Streamlit pour la visualisation des KPIs
+
 
 
 
