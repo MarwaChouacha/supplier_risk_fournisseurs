@@ -7,11 +7,9 @@ L'équipe se compose de 2 individus. Ils ont opéré sous l'encadrement de Mr Ta
 
 Les encadrants :
 ----------------
-    - **Encadrant 1**: Masrour Tawfik |linkedin_Masrour|
-.. |linkedin_Masrour| image:: ../Images/LinkedIn_Logo.jpeg
-    :width: 16
-    :height: 16
+    - **Encadrant 1**: Masrour Tawfik 
     :target: https://www.linkedin.com/in/tawfik-masrour-43163b85/
+    - **Encadrant 2**: Ibtissam EL Hassani 
     :target: https://www.linkedin.com/in/ibtissam-elhassani/
 
 
@@ -20,5 +18,6 @@ Les encadrants :
 Les membres :
 --------------
 
-    - **Membre 1**: MARWA CHOUACHA |linkedin_marwa|
-    - **Membre 2**: ISMAILI AMINA |linkedin_amina|
+    - **Membre 1**: MARWA CHOUACHA 
+    - **Membre 2**: ISMAILI AMINA 
+
