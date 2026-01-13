@@ -1,5 +1,10 @@
 Modélisation et MLflow
 =====================
+.. image:: mlflow.png
+   :align: center
+   :width: 60%
+   :alt: Requête POST /api/v1/predict
+
 
 Modèles de Machine Learning
 ---------------------------
@@ -24,3 +29,4 @@ Sélection du Modèle
 
 Le meilleur modèle est sélectionné automatiquement selon les métriques
 de performance et enregistré dans le **MLflow Model Registry**.
+
