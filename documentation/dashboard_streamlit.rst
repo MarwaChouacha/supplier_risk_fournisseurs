@@ -1,10 +1,10 @@
 Dashboard Streamlit
 ===================
 
-.. image:: dash.jpg
+.. image:: dash.png
    :align: center
    :width: 60%
-   :alt: daschboad risques fournisseurs
+   :alt: dashboard risques fournisseurs
 
 
 Fonctionnalités
@@ -23,6 +23,7 @@ Cas d’Usage
 - Suivi des fournisseurs critiques
 - Simulation de scénarios
 - Aide à la prise de décision stratégique
+
 
 
 
