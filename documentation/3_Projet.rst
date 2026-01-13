@@ -21,13 +21,4 @@ Les membres :
 --------------
 
     - **Membre 1**: MARWA CHOUACHA |linkedin_marwa|
-    - **Membre 2**: NISRINE DRIEF |linkedin_drief|
-.. |linkedin_marwa| image:: ../Images/LinkedIn_Logo.jpeg
-    :width: 16
-    :height: 16
-    :target: https://www.linkedin.com/in/linkedin_marwachouacha
-
-.. |linkedin_nisrine| image:: ../Images/LinkedIn_Logo.jpeg
-    :width: 16
-    :height: 16
-    :target: https://www.linkedin.com/in/linkedin_nisrinedrief
+    - **Membre 2**: ISMAILI AMINA |linkedin_amina|
