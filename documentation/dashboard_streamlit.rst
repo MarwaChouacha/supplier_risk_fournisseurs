@@ -4,7 +4,7 @@ Dashboard Streamlit
 .. image:: dash.png
    :align: center
    :width: 60%
-   :alt: Requête POST /api/v1/predict
+   :alt: daschboad risques fournisseurs
 
 
 Fonctionnalités
@@ -23,4 +23,5 @@ Cas d’Usage
 - Suivi des fournisseurs critiques
 - Simulation de scénarios
 - Aide à la prise de décision stratégique
+
 
